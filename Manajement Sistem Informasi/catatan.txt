@@ -1,0 +1,43 @@
+		hubungan data dan informasi
+data bersifat objektif bergantung pada 
+
+definisi data
+Sekumpulan fakta,bilangan,angka dan simbol yang di bentuk dan di olah menjadi
+informasi(Scott)
+Contoh:Simbol LaluLintas,Simbol Twilet,Angka Ganjil Genap
+
+Gambaran / fakta Secara relatif belum berarti bagi si penerima(Davis)
+contoh:
+
+Penggambaran fakta,Pengertian atau 
+
+Data dan database
+
+data
+-Komponen atribut
+-Hirarki data
+Database
+
+Komponen sistem informasi
+-Block masukan atau input BLOCK
+	
+-Block model
+prosedur,logika,model matriks
+-Blok Keluaran
+Dokumen,Informasi
+-bLOCK tEKNOLOGI
+menerima input,menjalankan teknologi,simpan dan akses data
+-Block basis data
+
+-Block Kendali
+cegah dan kendali kesalahan dan kegagalan
+oprenal sistam
+
+
+
+
+Pengertian Payment Gateway adalah gerbang atau medium transaksi yang 
+disediakan oleh sebuah layanan aplikasi e-commerce yang bisa memberi 
+otorisasi pemrosesan kartu kredit maupun pembayaran langsung bagi kliennya 
+dalam aktivitas bisnis elektronik/ online. Payment gateway ini bisa 
+mempermudah pebisnis sekaligus kliennya dalam bertransaksi.							
